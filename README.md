@@ -17,7 +17,7 @@
 
 <p align="center"><img src="images/steps.png" alt="1 Download, 2 Run setup, 3 Plug in" width="100%"></p>
 
-> **"Windows protected your PC"?** That message appears for new apps that few people have downloaded yet. Click **More info**, then **Run anyway**. Setup only installs MSFX files that carry our digital signature, and it refuses anything else.
+> ⚠️ **"Windows protected your PC" / unknown publisher?** Windows Defender SmartScreen shows this blue screen for any new app that few people have downloaded yet — it is **not** a virus warning. Click **More info**, then **Run anyway**. Setup only installs MSFX files that carry our own digital signature, and it refuses anything else.
 
 <p align="center"><img src="images/feat.png" alt="What you get" width="100%"></p>
 
