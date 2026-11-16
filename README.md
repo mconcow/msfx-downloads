@@ -7,9 +7,8 @@
   Find a sound, hear it on hover, drop it on your timeline.
 </p>
 
-<p align="center">
-  <a href="https://github.com/mconcow/msfx-downloads/releases/latest/download/MSFX-Setup.exe"><img src="images/win.png" alt="Download MSFX for Windows" width="400"></a>
-</p>
+<h2 align="center">⬇&nbsp; <a href="https://github.com/mconcow/msfx-downloads/releases/latest/download/MSFX-Setup.exe">Click here to download MSFX for Windows</a></h2>
+<p align="center"><sub>MSFX-Setup.exe &middot; about 6&nbsp;MB &middot; free &middot; no account needed</sub></p>
 
 <p align="center">
   <sub><b>On a Mac?</b> MSFX is coming to the <b>Adobe Marketplace</b> in Creative Cloud, where it installs in one click &mdash; no download needed. <a href="https://mstudio.site">Get notified at mstudio.site</a>.</sub>
