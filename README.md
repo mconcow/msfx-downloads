@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">⬇&nbsp; <a href="https://github.com/mconcow/msfx-downloads/releases/latest/download/MSFX-Setup.exe">Click here to download MSFX for Windows</a></h2>
-<p align="center"><sub>MSFX-Setup.exe &middot; about 6&nbsp;MB &middot; free &middot; no account needed</sub></p>
+<p align="center"><sub>MSFX-Setup.exe &middot; about 8&nbsp;MB &middot; free &middot; no payment needed</sub></p>
 
 <p align="center">
   <sub><b>On a Mac?</b> MSFX is coming to the <b>Adobe Marketplace</b> in Creative Cloud, where it installs in one click &mdash; no download needed. <a href="https://mstudio.site">Get notified at mstudio.site</a>.</sub>
@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td width="55%"><img src="images/library.jpg" alt="The sound library"></td>
-<td><h3>The library</h3>902 sounds in 20 groups: Quick Whooshes, Atmospheres, Impacts, Hits, Risers, Explosions, Glitch, Sci-Fi, Retro Game, UI &amp; Clicks and more. Hover a sound to hear it, search with <code>/</code>, star your favorites, then press <b>+</b> or drag it onto your timeline.</td>
+<td><h3>The library</h3>998 sounds in 22 groups: Quick Whooshes, Atmospheres, Impacts, Hits, Risers, Explosions, Glitch, Sci-Fi, Retro Game, UI &amp; Clicks, Guns, Foley and more. Hover a sound to hear it, search with <code>/</code>, star your favorites, then press <b>+</b> or drag it onto your timeline.</td>
 </tr>
 <tr>
 <td><img src="images/effects-cream.jpg" alt="The effects rack"></td>
